@@ -1,3 +1,5 @@
 0-pwd
 1-ls
-cd ..
+cd
+ls -l
+ls -la
