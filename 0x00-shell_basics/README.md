@@ -3,4 +3,5 @@
 cd
 ls -l
 ls -la
-mkdir/tmp/my_first_directory
+ls -la
+mkdir/tmp/myfirstidirectory
