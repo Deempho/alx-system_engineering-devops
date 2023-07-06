@@ -4,4 +4,4 @@
 3ls -l
 4ls -la
 5ls -la
-6mkdir/tmp/my_first_directory
+6mkdir/tmp/my first directory
