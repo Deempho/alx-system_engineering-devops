@@ -14,4 +14,5 @@
 13In -s /bin/ls ls
 14cp -u *.html ..
 15mv [[:upper:]]* /tmp/u
-16rm *~ 
+16rm *~
+17mkdir -p welcome/to/school 
