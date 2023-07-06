@@ -6,4 +6,5 @@
 5 Execute : write s script that adds execute permission to the owner of the file hello
 6 Multiple permissions:write that adds execute permission to the owner and the group owner, and readr permission to other users, to the file hello
 7 Everybody :write that adds executeion permission to the owner, the group owner and the other users, tot he file hello
-8 Jame Bond : write a script that sets the permission to the file hello as fellows:owner :no permission at all,group no permission at all,other users :all the permissions
+8 Jame Bond : write a script that sets the permission to the file hello as fellows:owner :no permission at all,group no permission at all,other users :all the permission
+9 Jonh Doe : write a scrpit that sets the mode of the file hello to this
