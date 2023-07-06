@@ -11,4 +11,5 @@
 10cd -
 11ls -la . ../boot
 12file /tmp/iamafile
-13In -s /bin/ls ls 
+13In -s /bin/ls ls
+14cp -u *.html .. 
