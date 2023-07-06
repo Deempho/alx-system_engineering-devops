@@ -4,3 +4,4 @@
 3 New owner : write a scritp that changes the owner of the file hello to the user
 4 Empty : Write a script that create an empty file called hello
 5 Execute : write s script that adds execute permission to the owner of the file hello
+6 Multiple permissions:write that adds execute permission to the owner and the group owner, and readr permission to other users, to the file hello
