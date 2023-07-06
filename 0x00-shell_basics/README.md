@@ -13,4 +13,5 @@
 12file /tmp/iamafile
 13In -s /bin/ls ls
 14cp -u *.html ..
-15mv [[:upper:]]* /tmp/u 
+15mv [[:upper:]]* /tmp/u
+16rm *~ 
