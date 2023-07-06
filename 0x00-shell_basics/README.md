@@ -9,3 +9,4 @@
 8rm tmp/my first directory/betty
 9rmdir /tmp/my first directory
 10cd -
+11ls -la . ../boot
