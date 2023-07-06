@@ -6,3 +6,4 @@
 5ls -la
 6mkdir/tmp/my first directory
 7mv /tmp/betty/tmp/my first directory
+8rm tmp/my first directory/betty
