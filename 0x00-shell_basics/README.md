@@ -10,3 +10,4 @@
 9rmdir /tmp/my first directory
 10cd -
 11ls -la . ../boot
+12file /tmp/iamafile
