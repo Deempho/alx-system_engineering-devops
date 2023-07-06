@@ -7,3 +7,4 @@
 6mkdir/tmp/my first directory
 7mv /tmp/betty/tmp/my first directory
 8rm tmp/my first directory/betty
+9rmdir /tmp/my first directory
