@@ -15,3 +15,4 @@
 14 Owner andd group : write script that changes the owner to vincet and the group owner to staff for all the files and directories in the working directory
 15 Symbolic liks :writ script that change the owner and the group the group owner of hell to vincent and staff respectively
 16 if only : write ascript that change the owner of the file hellow to betty only if it is owned by the user quillaume
+17 STAR Wars : write scipt that will play the stars WARS IV episode in the terminal
