@@ -1,2 +1,2 @@
 #!/bin/bash
-mpv --cache=2048 --fs https://www.youtube.com/watch?v=5ocq6_3-nEw
+sudo apt install telnet
