@@ -14,3 +14,4 @@
 13 Change group :write a script that chnages the goup owner to school for the file hello
 14 Owner andd group : write script that changes the owner to vincet and the group owner to staff for all the files and directories in the working directory
 15 Symbolic liks :writ script that change the owner and the group the group owner of hell to vincent and staff respectively
+16 if only : write ascript that change the owner of the file hellow to betty only if it is owned by the user quillaume
