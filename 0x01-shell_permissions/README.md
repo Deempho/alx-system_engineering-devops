@@ -12,3 +12,4 @@
 11 Directories : create that adds excute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 12 More directories creat a script that create s directory called my dir with permissions 751 in the working directory
 13 Change group :write a script that chnages the goup owner to school for the file hello
+14 Owner andd group : write script that changes the owner to vincet and the group owner to staff for all the files and directories in the working directory
