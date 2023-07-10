@@ -6,3 +6,4 @@
 5 I'd prefer the first ones actually, display the first 10 line of /etc/passwd
 6 Line#2 : write s script that display that third line of the file iacta
 8 Save current state of directory : Write that write into the file ls cwd content the result of the command ls-la. if the file ls cwd content already exist, it should be overwritten. if the file is cwd content does not exit does not exist creat it
+9 Duplicate last line : write a script that duplicates the last line of the file iacta
