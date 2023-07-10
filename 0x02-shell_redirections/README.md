@@ -10,4 +10,5 @@
 9 Duplicate last line : write a script that duplicates the last line of the file iacta
 10 No more javascrip : write a script that deletes al the regular file(not the directories)with a .js extension that are present in the currect director and all its subfolders
 11 Write a script that counts the number of directories and sub-directories in the current directory.
-12 Create a script that displays the 10 newest files in the current directory.
+12 Create a script that displays the 10 newest files in the current directory
+13 Create a script that takes a list of words as input and prints only words that appear exactly once.
