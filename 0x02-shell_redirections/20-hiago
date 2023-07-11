@@ -1,2 +1,2 @@
 #!/bin/bash
-echo C | tr -dc c 
+tar -d c C
