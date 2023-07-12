@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obase=16; 16" | bc 10
+echo -n 10 | printf ‘%x\n’ $16
